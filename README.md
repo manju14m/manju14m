@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## WEB DevelopmenT
+## WEB Development
 
 ### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB /EXPRESS.
 
