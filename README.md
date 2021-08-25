@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## WEB DevelopmenT
+
+### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB /EXPRESS.
+
 <!--
 **manju14m/manju14m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
