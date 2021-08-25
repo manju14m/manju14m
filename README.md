@@ -2,7 +2,9 @@
 
 ## WEB Development
 
-### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB /EXPRESS.
+### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB / EXPRESS.
+
+### Reach me on manju14m@hotmail.com
 
 <!--
 **manju14m/manju14m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
