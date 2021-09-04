@@ -1,10 +1,10 @@
-<h2 align="center">
+<h1 align="center">
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
-
-<h4 align="center">
-  ### A passionate Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.
-</h4>
+<hr/>
+<h1 align="center">
+  A passionate Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.
+</h3>
 
 ## WEB Developer
 
