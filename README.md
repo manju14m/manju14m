@@ -6,13 +6,16 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   A passionate Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.
 </h3>
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![Sass](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![javascript](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![typescript](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-..
-
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReacJS-informational?style=flat&logo=reactjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Service-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
 
 ### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB / EXPRESS.
 
