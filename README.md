@@ -6,9 +6,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   A passionate Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.
 </h3>
 
-
 ### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB / EXPRESS.
-
 
 <!--
 **manju14m/manju14m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
