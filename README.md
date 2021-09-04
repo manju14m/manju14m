@@ -6,6 +6,13 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   A passionate Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.
 </h3>
 
+![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![Sass](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![javascript](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![typescript](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+..
+
+
 ### Skills: REACT / JS / HTML / CSS / NODE JS / MONGODB / EXPRESS.
 
 <!--
